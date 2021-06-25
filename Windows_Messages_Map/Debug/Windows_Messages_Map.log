@@ -1,0 +1,3 @@
+﻿  WindowMsgMap.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Windows_Messages_Map.vcxproj -> D:\Collage\MFC\Windows_Messages_Map\Debug\Windows_Messages_Map.exe

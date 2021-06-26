@@ -1,0 +1,17 @@
+﻿  SDI_App.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\Collage\MFC\SDI_Demo\resource.h(8,1): warning C4005: 'ID_FILE_NEW': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(214): message : see previous definition of 'ID_FILE_NEW'
+D:\Collage\MFC\SDI_Demo\resource.h(9,1): warning C4005: 'ID_FILE_OPEN': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(215): message : see previous definition of 'ID_FILE_OPEN'
+D:\Collage\MFC\SDI_Demo\resource.h(10,1): warning C4005: 'ID_FILE_SAVE': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(217): message : see previous definition of 'ID_FILE_SAVE'
+D:\Collage\MFC\SDI_Demo\resource.h(13,1): warning C4005: 'ID_HELP': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(284): message : see previous definition of 'ID_HELP'
+D:\Collage\MFC\SDI_Demo\resource.h(14,1): warning C4005: 'ID_APP_EXIT': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(278): message : see previous definition of 'ID_APP_EXIT'
+D:\Collage\MFC\SDI_Demo\resource.h(16,1): warning C4005: 'ID_FILE_PRINT_SETUP': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(220): message : see previous definition of 'ID_FILE_PRINT_SETUP'
+D:\Collage\MFC\SDI_Demo\resource.h(19,1): warning C4005: 'ID_FILE_SAVE_AS': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\afxres.h(218): message : see previous definition of 'ID_FILE_SAVE_AS'
+  SDI_Demo.vcxproj -> D:\Collage\MFC\SDI_Demo\Debug\SDI_Demo.exe

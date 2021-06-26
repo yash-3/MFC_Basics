@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MDI_Demo.cpp
+  MDI_DemoDoc.cpp
+  MDI_DemoView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  Generating Code...
+  MDI_Demo.vcxproj -> D:\Collage\MFC\MDI_Demo\Debug\MDI_Demo.exe

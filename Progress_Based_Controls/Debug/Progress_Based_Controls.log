@@ -1,0 +1,3 @@
+﻿  Progress_Based_ControlsDlg.cpp
+D:\Collage\MFC\Progress_Based_Controls\Progress_Based_ControlsDlg.cpp(217,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Progress_Based_Controls.vcxproj -> D:\Collage\MFC\Progress_Based_Controls\Debug\Progress_Based_Controls.exe
